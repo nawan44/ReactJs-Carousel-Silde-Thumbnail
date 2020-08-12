@@ -11,7 +11,7 @@ class ImageGallaryComponent extends React.Component {
         return (
             <div>
                 <h2>My Image Gallery</h2>
-                <Carousel autoPlay interval="700" transitionTime="700" style={{margin : 0}}>
+                <Carousel autoPlay interval="700" transitionTime="700" >
                     <div >
                         <img src={Bogor} />
                         <p className="legend">Bogor</p>
