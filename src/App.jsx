@@ -9,6 +9,7 @@ function App() {
       <h2>Responsive React Carousel Image Gallery with Thumbs</h2>
       <Carousel />
       <Content/>
+
     </div>
   );
 }
